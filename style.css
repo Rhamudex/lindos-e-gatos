@@ -30,7 +30,7 @@ footer p{
 }
 .cartao{
     margin: 1rem;
-    background-color:var(--cor-cartao-verso);
+    background-color:var(--cor-cartao-frente);
     height: 20rem;
 }
 .cartao-conteudo{
